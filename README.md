@@ -7,6 +7,7 @@ The library has four modules:
 * Algorithms for classsification
 * Evaluation of classifications
 * Visualization of data (both labeled input and classified output)
+
 Examples of the use of the library can be found in the python scripts in this repository:
 * library_evaluation.py which performs model training and evaluation for all the available models in the library, as well as a demonstration of training and evaluating SciKit Learn classifiers. 
 * KNN_evaluation.py which performs a training of a KNN model on some training data and then validates the model on separate data
