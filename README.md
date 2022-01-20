@@ -1,4 +1,4 @@
-### ML_lib - A simple machine learning library
+### EOLearn - A simple machine learning library
 
 This simple machine learning library performs classification of land-cover of remotely sensed images. The data should be pre-formatted in GeoTiff format, with each band being separately stored as a separate image that is geo-referenced to all others. Additionally, labels for land-cover classes (for example from the National Land-Cover Dataset) should be treated the same, a separate geo-referenced image with the text 'label' in the file name.
 
